@@ -2,11 +2,11 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'Вин Чун'
-description: 'Приходите на занятия по единоборству Вин Чун во Всеволожске, записаться можно по ссылкам ниже'
+title: 'Всевсад'
+description: 'Ландшафтный дизайн вашей мечты'
 
 # Images
-avatar: 'avatar.jpg'
+avatar: 'logosad.jpg'
 background: 'background.jpg'
 favicon: 'logoweb.png'
 
@@ -15,7 +15,7 @@ favicon: 'logoweb.png'
 #facebook: 'myfacebook'
 #twitter: 'mytwitter'
 #linkedin: 'mylinkedin'
-instagram: 'wing_chun_vsevolozhsk'
+#instagram: 'wing_chun_vsevolozhsk'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
 #github-user: 'mygithub'
@@ -30,16 +30,16 @@ instagram: 'wing_chun_vsevolozhsk'
 #medium:  ''
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
-vk: 'vsevwingchun'
-telegram: 'Ilya_Manik'
-whatsapp: '79657776696'
+vk: 'anait_akopian'
+telegram: 'anait_akopian'
+whatsapp: '79119073497'
 #blog_url: 'myblog.blog.com'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
 website: ''
-phone: '+79657776696'
+phone: '+79119073497'
 
-social-links-order: [instagram, telegram, vk, whatsapp, website, phone]
+social-links-order: [telegram, vk, whatsapp, website, phone]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -158,7 +158,7 @@ social-links:
     icon-class: fas fa-2x fa-blog
 
   - name: website
-    url-pattern: www.wingchunspb.ru/__USERNAME__
+    url-pattern: www.vsevsad.pro/__USERNAME__
     icon-class: fa fa-2x fa-chrome
     
   - name: email
